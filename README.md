@@ -1,4 +1,4 @@
 # Spider-Ptt-Beauty
 
-*Spider Ptt Beauty 
-*Sort by push number
+ * Spider Ptt Beauty 
+ * Sort by push number
