@@ -5,4 +5,4 @@
 
 command line input:
 
-.. PttBeauty\scrapy crawl beauty_spider
+PttBeauty/scrapy crawl beauty_spider
